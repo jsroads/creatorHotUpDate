@@ -1,0 +1,15 @@
+{
+    "genManifestDir": "",
+    "buildTime": 1599633946248,
+    "genTime": 1599633946248,
+    "genVersion": null,
+    "version": "1.0.2",
+    "serverRootDir": "https://cdn.mini.52muyou.com/xiaoyouxi/test/hotupdemo/ios/release",
+    "resourceRootDir": "/Users/smile/my/cc/hotopdatedemo/build/jsb-link",
+    "hotAddressArray": [
+        "http://192.168.30.84:8888/hotdemo/ios/release",
+        "https://cdn.mini.52muyou.com/xiaoyouxi/railway/qqadnet/ios/release/",
+        "https://cdn.mini.52muyou.com/xiaoyouxi/railway//Users/smile/my/cdn/test/hotupdemo",
+        "https://cdn.mini.52muyou.com/xiaoyouxi/test/hotupdemo/ios/release"
+    ]
+}

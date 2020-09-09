@@ -10,34 +10,45 @@
   "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
   "title": "demo",
   "webOrientation": "auto",
-  "includeSDKBox": false,
   "inlineSpriteFrames": true,
   "inlineSpriteFrames_native": true,
-  "mergeStartScene": false,
+  "mainCompressionType": "default",
+  "mainIsRemote": false,
   "optimizeHotUpdate": false,
-  "md5Cache": false,
+  "md5Cache": true,
+  "nativeMd5Cache": false,
   "encryptJs": true,
-  "xxteaKey": "7de2b5f2-6b9f-4e",
+  "xxteaKey": "130aab55-01be-4b",
   "zipCompressJs": true,
   "fb-instant-games": {},
   "android": {
-    "packageName": "org.cocos2d.helloworld"
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "org.cocos2d.demo"
   },
   "ios": {
-    "packageName": "com.smile.asroads"
+    "REMOTE_SERVER_ROOT": "",
+    "packageName": "org.cocos2d.demo"
   },
   "mac": {
-    "packageName": "org.cocos2d.helloworld"
-  },
-  "win32": {},
-  "android-instant": {
     "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "packageName": "org.cocos2d.demo",
+    "width": 1280
+  },
+  "win32": {
+    "REMOTE_SERVER_ROOT": "",
+    "height": 720,
+    "width": 1280
+  },
+  "android-instant": {
+    "REMOTE_SERVER_ROOT": "http://192.168.30.84:7456/preview-android-instant/",
     "host": "",
-    "packageName": "org.cocos2d.helloworld",
+    "packageName": "org.cocos2d.demo",
     "pathPattern": "",
     "recordPath": "",
     "scheme": "https",
     "skipRecord": false
   },
-  "appBundle": false
+  "appBundle": false,
+  "includeAnySDK": null
 }
